@@ -6,7 +6,7 @@ license-file:     LICENSE
 author:           Anton Dessiatov
 maintainer:       anton.dessiatov@gmail.com
 copyright:        Anton Dessiatov,
-category:         System
+category:         FFI
 build-type:       Simple
 cabal-version:    >=1.16
 homepage:         https://github.com/anton-dessiatov/inline-c-win32
